@@ -4,17 +4,17 @@
 
 ## Analysis Results
 
-![](https://github.com/pbarana89/Pewlett_Hackard_Analysis/blob/main/Pewlett_Hackard_Analysis/Resources/Retiring_Count.PNG)
+![](https://github.com/pbarana89/Pewlett_Hackard_Analysis/blob/main/Resources/Retiring_Count.PNG)
 
 - The numbers from above show that possibly 70k of the Pewlett Hackard workforce could retire in the upcoming years. This is almost a quarter of their total 300k workforce. This does not even take into consideration employee turnover due to other factors. This is going to be a momentumal event that the company has to be prepared to face. 
 
-![](https://github.com/pbarana89/Pewlett_Hackard_Analysis/blob/main/Pewlett_Hackard_Analysis/Resources/Total_Count.PNG)
+![](https://github.com/pbarana89/Pewlett_Hackard_Analysis/blob/main/Resources/Total_Count.PNG)
 
 - The most concering thing that can be seen from the total count above is that they need to be prepared to lose over a quarter of their senior level staff and engineers. These are the people which have the furthest reach in the company and their loss will be felt severly. 
 
 - They are fortunate that the more junior roles are not going to be at risk of a disruption in productivity due to retirement.
 
-![](https://github.com/pbarana89/Pewlett_Hackard_Analysis/blob/main/Pewlett_Hackard_Analysis/Resources/Mentors_Group.PNG)
+![](https://github.com/pbarana89/Pewlett_Hackard_Analysis/blob/main/Resources/Mentors_Group.PNG)
 
 - They do have a limited group seen above that could provide mentorship to the company. It is absolutely vital with such a small group of people that could help transition that they use them as their assistance even though small in quantity will be invaluable in terms of quality. 
 
